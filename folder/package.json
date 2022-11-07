@@ -1,0 +1,19 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.6.2",
+    "discord.js-selfbot-v13": "^2.8.0",
+    "mongoose": "^6.7.0",
+    "pg": "^8.8.0",
+    "quick.db": "^9.0.6",
+    "sequelize": "^6.25.0"
+  }
+}
