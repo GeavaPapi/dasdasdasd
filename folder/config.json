@@ -1,10 +1,18 @@
 {
-
-    "token": "MTAxMjg0MDMyMDA3OTI0MTM2Ng.GKo4kp.dm0jXAfkeP__5YkqrN21-7f0bY1bv2BB6kqKrI",
-    "words_included": [""],
-    "channel_ids": ["908464395171029012"],
+    "token": "OTQwMjc4Nzc3MDY4NTMxNzUz.GC4ty_.sxnhtRasjGv4M7lKQLHhrAjpi90EQ0tohHmxRI",
+    "words_included": [
+        ""
+    ],
+    "channel_ids": [
+        "908464395171029012"
+    ],
     "owner_id": "",
     "intervals": {
-        "intervals": ["1","5", "30", "60"]
+        "intervals": [
+            "1",
+            "5",
+            "30",
+            "60"
+        ]
     }
 }
